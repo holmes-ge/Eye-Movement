@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Eye-Movement
 This project creates a web page with two eyes that follow your mouse movement. 
 Using HTML and CSS, the image of two eyes over a dark blue background appears on the browser. 
